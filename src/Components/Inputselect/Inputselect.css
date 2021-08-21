@@ -1,0 +1,43 @@
+.inputselect{
+height: 40%;
+background-color:#91aa9d;
+display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+input {
+    height: 45px;
+    width: 300px;
+    font-size: 20px;
+    border-radius: 25px;
+    outline: none;
+    padding-left: 10px;
+    background-color: #d1dbbd;
+    margin-right: 20px;
+}
+
+.btn{
+    cursor: pointer;
+    height: 29px;
+    width: 71px;
+    position: relative;
+    margin-left: -94px;
+    margin-right: 0px;
+    background-color: #d1dbbd;
+    color: #193441;
+    border: 0;
+    border-radius: 25px;
+}
+
+.btngn{
+    cursor: pointer;
+    height: 41px;
+    width: 130px;
+        font-size: 20px;
+        border-radius: 25px;
+        padding-left: 10px;
+        background-color: #193441;
+        color: white;
+        margin-left: 50px       
+}

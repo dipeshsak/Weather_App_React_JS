@@ -1,0 +1,23 @@
+.temperature{
+    width: 33.33%;
+    background-color: #fcfff5;
+    text-align: center;
+}
+
+h1{
+    font-size: 32px;
+}
+
+.fl{
+    text-align: end;
+    padding-right: 10px;
+}
+
+.minmax{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+h3 {
+    margin-bottom: 0;
+}
